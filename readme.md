@@ -6,3 +6,7 @@ Stuff that I think everyone should use:
 
 <!-- Show an image of my wakatime stats -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@marnixah&theme=dark" alt="Wakatime stats">
+
+![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marnixah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marnixah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marnixah&theme=github_dark)
