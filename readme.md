@@ -7,7 +7,7 @@ Stuff that I think everyone should use:
 ### WakaTime
 
 <!-- Show an image of my wakatime stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@marnixah&theme=dark" alt="Wakatime stats">
+![](https://github-readme-stats.vercel.app/api/wakatime?username=@marnixah&theme=dark)
 
 
 ![](https://wakatime.com/share/@marnixah/ea37ebc8-7f06-4cac-9f83-25086b903849.svg)
