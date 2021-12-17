@@ -10,9 +10,8 @@ Stuff that I think everyone should use:
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@marnixah&theme=dark" alt="Wakatime stats">
 
 
-WakaTime Time |  WakaTime Language
-:------------- | ------------------:
-![](https://wakatime.com/share/@marnixah/ea37ebc8-7f06-4cac-9f83-25086b903849.svg) | ![](https://wakatime.com/share/@marnixah/a37f8a24-8956-48de-a39c-d65676e16ab2.svg)
+![](https://wakatime.com/share/@marnixah/ea37ebc8-7f06-4cac-9f83-25086b903849.svg)
+![](https://wakatime.com/share/@marnixah/a37f8a24-8956-48de-a39c-d65676e16ab2.svg)
 
 
 ### GitHub
