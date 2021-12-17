@@ -14,12 +14,6 @@ WakaTime Time |  WakaTime Language
 :------------- | ------------------:
 ![](https://wakatime.com/share/@marnixah/ea37ebc8-7f06-4cac-9f83-25086b903849.svg) | ![](https://wakatime.com/share/@marnixah/a37f8a24-8956-48de-a39c-d65676e16ab2.svg)
 
-<style>
-  table {
-    width:100%;
-}
-</style>
-
 
 ### GitHub
 
