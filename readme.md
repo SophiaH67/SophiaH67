@@ -1,9 +1,3 @@
-Hi, my name is [Marnix](https://www.marnixah.com). And I'm a software developer.
-Stuff that I think everyone should use:
-- [Conventional Commits](https://conventionalcommits.org/)
-- [rust](https://www.rust-lang.org/)
-- [GitHub Copilot](https://copilot.github.com/)
-
 ### WakaTime
 
 <!-- Show an image of my wakatime stats -->
