@@ -13,3 +13,4 @@
 ![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marnixah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marnixah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marnixah&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=marnixah&count_private=true&show_icons=true&theme=dracula)
