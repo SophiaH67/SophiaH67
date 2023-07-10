@@ -14,3 +14,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marnixah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marnixah&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api?username=marnixah&count_private=true&show_icons=true&theme=dracula)
+
+### Platforms
+
+Matrix: `@marnix:roboco.dev`
+Discord: `marnixah`
+Monero: `88SvYuxm3q4CSM43jhpsDKh81LL9Z5jYbgJJUQTf17ANDRTN9EfgbkdQqVGFFRQP2sPVELu37bE2i5YdFDyxxXStKqQH3Yp`
