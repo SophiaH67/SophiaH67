@@ -1,3 +1,12 @@
+### Hypixel
+
+![](https://gen.plancke.io/exp/sophiah_.png)
+![](https://gen.plancke.io/achievementPoints/sophiah_.png)
+
+#### Mega Walls
+
+![](https://gen.plancke.io/mw/sophiah_/2.png)
+
 ### WakaTime
 
 <!-- Show an image of my wakatime stats -->
@@ -10,10 +19,10 @@
 
 ### GitHub
 
-![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marnixah&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marnixah&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marnixah&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=marnixah&count_private=true&show_icons=true&theme=dracula)
+![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SophiaH67&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SophiaH67&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SophiaH67&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=SophiaH67&count_private=true&show_icons=true&theme=dracula)
 
 ### Platforms
 
