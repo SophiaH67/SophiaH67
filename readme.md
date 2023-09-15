@@ -28,6 +28,6 @@
 
 Matrix: `@marnix:roboco.dev`
 
-Discord: `marnixah`
+Discord: `sophia__h`
 
 Monero: `88SvYuxm3q4CSM43jhpsDKh81LL9Z5jYbgJJUQTf17ANDRTN9EfgbkdQqVGFFRQP2sPVELu37bE2i5YdFDyxxXStKqQH3Yp`
