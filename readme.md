@@ -10,11 +10,11 @@
 ### WakaTime
 
 <!-- Show an image of my wakatime stats -->
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@marnixah&theme=dark)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=@SophiaH67&theme=dark)
 
 
-![](https://wakatime.com/share/@marnixah/ea37ebc8-7f06-4cac-9f83-25086b903849.svg)
-![](https://wakatime.com/share/@marnixah/a37f8a24-8956-48de-a39c-d65676e16ab2.svg)
+![](https://wakatime.com/share/@SophiaH67/ea37ebc8-7f06-4cac-9f83-25086b903849.svg)
+![](https://wakatime.com/share/@SophiaH67/a37f8a24-8956-48de-a39c-d65676e16ab2.svg)
 
 
 ### GitHub
