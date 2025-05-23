@@ -17,3 +17,5 @@ Below are some fun graphs of my user, and other ways to contact me ^^
 Matrix: `@sophia:cat.sophiah.gay`
 
 Discord: `sophia__h`
+
+Monero: 83Zr1ZZru2jhjErmu6wCgLQZ5fFJjRjVCKtw8deX6oGBKHpcGbfC3VLQ9bS8SZQBGxbsWP4ZTeqbzJ1RZnTrjdZrSBbMLQo
